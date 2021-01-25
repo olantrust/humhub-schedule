@@ -10,7 +10,7 @@ Once enough invitees have responded with their avilability for each slot, the or
 
 *To schedule meetings this module requires #humhub-modules-calendar and/or #humhub-modules-meetings*
 
-*Donations welcome to support our development https://olan.uk/*
+*Donations welcome to support our development https://olan.uk/donate*
 
 **Roadmap**
 
